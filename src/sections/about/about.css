@@ -1,0 +1,31 @@
+.about{
+
+    margin-top: 30px;
+}
+
+.about_wrapper{
+
+}
+
+.about_wrapper .left{
+
+}
+.about .about_wrapper .left p{
+    line-height: 1.6;
+    color: gray;
+
+}
+.about .about_wrapper .left nav li{
+    margin-top: 10px;
+}
+.about .about_wrapper .left nav li i{
+    margin-right: 10px;
+}
+
+.about_wrapper .right{
+
+}
+
+.about_wrapper .right img{
+    max-width: 100%;
+}

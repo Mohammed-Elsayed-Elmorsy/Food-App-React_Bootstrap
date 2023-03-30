@@ -1,0 +1,25 @@
+.tesmonials{
+
+    background-color: brown;
+    color: white;
+}
+
+.tesmonials .container{
+
+}
+
+.tesmonials .tesmonial{
+    
+
+}
+
+.tesmonials .tesmonial img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+
+}
+
+.tesmonials .testmonials_wrapper{
+
+}

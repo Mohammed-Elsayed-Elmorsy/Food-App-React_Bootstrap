@@ -1,0 +1,35 @@
+button{
+    padding: 10px 17px;
+    font-size: 19px;
+    border: 0;
+    transition: 0.3s;
+    display: inline-block;
+    margin-top: 10px;
+    cursor: pointer;
+
+}
+button i{
+    padding-left: 5px;
+    color: yellowgreen;
+}
+
+button.primary{
+    background-color: rgb(179, 9, 100);
+    color: white;
+    border: 1px solid rgb(179, 9, 100);
+    margin-right: 20px;
+}
+button.primary:hover{
+    background-color: white;
+    color: black;
+}
+
+button.secondry{
+    background-color: white;
+    border: 1px solid #ddd;
+    
+}
+button.secondry:hover{
+    box-shadow: 4px 3px 5px #ddd ,-4px -3px 5px #ddd ;
+    
+}

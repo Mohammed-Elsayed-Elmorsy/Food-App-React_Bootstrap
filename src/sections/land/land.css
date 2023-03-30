@@ -1,0 +1,33 @@
+.land{
+    margin-top: 120px;
+    background: url(../../images/land.jpg) center/cover;
+    height: calc(100vh - 120px);
+}
+
+.land .container{
+    height: 100%;
+}
+
+.land .container .land_wrapper{
+    height: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.land .container .wrapper h2{
+
+}
+
+.land .container .land_wrapper p{
+
+    color: rgb(47, 44, 44);
+    line-height: 1.6;
+    margin: 20px 0;
+}
+
+.land .container .wrapper button{
+
+}

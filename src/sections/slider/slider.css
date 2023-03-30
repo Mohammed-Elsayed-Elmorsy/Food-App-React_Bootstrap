@@ -1,0 +1,49 @@
+.slider_section{
+background-color: brown;
+margin-top: 30px;
+
+}
+.slider_section h2{
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+}
+.carousel.slide{
+    margin-top: 0;
+height: 550px;
+align-items: center;
+justify-content: center;
+display: flex;
+color: black;
+text-align: center;
+width: 100%;
+}
+.carousel.slide .carousel-item{
+    padding: 20px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 4px 4px 8px #eee;
+}
+.carousel img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.carousel h3 , .carousel p{
+    color: black;
+}
+.slider_section .carousel .carousel-indicators{
+
+    padding-top: 20px;
+
+}
+.carousel .carousel-indicators button{
+    width: 20px;
+    height: 20px;
+} 
+.slider_section .carousel  .carousel-control-prev,
+.slider_section .carousel  .carousel-control-next{
+    background-color: black;
+    display: none;
+}
